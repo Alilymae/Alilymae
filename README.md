@@ -5,7 +5,7 @@
 🎮 Building small games and playful experiments <br/>
 🤖 Learning about AI, UX/UI design, and digital art<br/>
 
-##🚀 Goals
+🚀 Goals
 - Expand my skills through hands-on projects<br/>
 - Collaborate with other creatives and developers<br/>
 - Share my journey and projects on GitHub<br/>
