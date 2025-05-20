@@ -11,8 +11,8 @@
 - Share my journey and projects on GitHub<br/>
 
 Follow me on my socials: 
-- [Instagram](https://www.instagram.com/alily_mae/) <br/>
-- [Linkedin](https://www.linkedin.com/in/aliah-mae-ortiz-088b55302/)<br/>
+- [Instagram](https://www.instagram.com/alily_mae/)
+- [Linkedin](https://www.linkedin.com/in/aliah-mae-ortiz-088b55302/)
 
 
 ## 🌐 Socials:
